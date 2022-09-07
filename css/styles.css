@@ -97,6 +97,11 @@ p {
     align-items: center;
 }
 
+.hero {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
 .features-list {
     display: flex;
     align-items: flex-start;
@@ -172,6 +177,7 @@ padding-bottom: 32px;
     color: var(--primary-text-color-theme-dark);
 
     margin-bottom: 30px;
+    
 }
     
 
